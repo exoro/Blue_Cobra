@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<workspace>
+  <project>
+    <path>$WS_DIR$\STM3210E-EVAL_Demo.ewp</path>
+  </project>
+  <batchBuild>
+    <batchDefinition>
+      <name>All</name>
+      <member>
+        <project>STM3210E-EVAL_Demo</project>
+        <configuration>Debug</configuration>
+      </member>
+      <member>
+        <project>STM3210E-EVAL_Demo</project>
+        <configuration>Debug_NOR_update</configuration>
+      </member>
+    </batchDefinition>
+  </batchBuild>
+</workspace>
+
+

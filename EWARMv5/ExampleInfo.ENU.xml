@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<infocenter_data version="1.0">
+  <iar_name>STM32F10E_EVAL_Demo V2.0.0</iar_name>                                                               <!--App-->
+  <iar_description>Demonstration firmware running on the STM3210E-EVAL evaluation board</iar_description><!--App short description-->
+  <iar_curdir>$CUR_DIR$</iar_curdir>
+</infocenter_data>
